@@ -1,2 +1,2 @@
 # tic-tac-toe
-Yet Another Tic Tac Toe!
+Tic Tac Toe using React
